@@ -1,5 +1,5 @@
 ---
-Title: About
+Title: Some plans for AY2021
 date: Sunday Sep 06, 2020 18:03:54 +08
 author: yfyourfriend
 header-includes: |
@@ -9,4 +9,6 @@ header-includes: |
 	\setlist[itemize]{label=$\circ$}
 ---
 
-Test. Here's an about. 
+<img src="/images/AY2021S1upcoming_schedule.jpg" width="200" height="200" />
+
+

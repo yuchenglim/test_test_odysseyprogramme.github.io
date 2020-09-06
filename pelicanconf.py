@@ -20,10 +20,18 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (
-        ('Archival for Talks this semester', '#'),
-        ('Ongoing Projects', '#'),
         ('SPMS Official Page for the Odyssey Programme', 'https://spms.ntu.edu.sg/Programmes/Undergrads/Odyssey/Pages/Home.aspx'),
-        ('OI', '#'),)
+        ('Telegram', '#'),
+        ('Whatsapp Announcement Group', '#'),
+        ('Instagram Page', '#'),
+        ('Email us', '#'),
+)
+"""
+('Archival for Talks this semester', '#'),
+('Ongoing Projects', '#'),
+('SPMS Official Page for the Odyssey Programme', 'https://spms.ntu.edu.sg/Programmes/Undergrads/Odyssey/Pages/Home.aspx'),
+('OI', '#'),)
+"""
 
 # Social widget
 SOCIAL = (
