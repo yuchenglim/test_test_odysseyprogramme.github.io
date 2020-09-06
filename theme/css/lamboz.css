@@ -153,7 +153,7 @@ section.article P {
   font-size: 1.4em;
 }
 
-.pages UL LI A { color: white; font-weight: 600; text-transform: uppercase;}
+.pages UL LI A { color: #A25300; font-weight: 600; text-transform: uppercase;}
 
 
 .pages UL LI.active {
@@ -253,15 +253,15 @@ div#title-block P.blurb {
 
  .footer {
     background-color:#f8c373;
-    color: #FFF;
+    color: #715555;
   }
   
   .footer A {
-    color: #FFF;
+    color: #A25300;
     font-weight: bold;
   }
   
- .footer H3 { color: white; margin: 0px;}
+ .footer H3 { color: black; margin: 0px;}
  
   .footer .active A { color: #A01;}
   .footer .active { color: #666; } 
