@@ -3,8 +3,8 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Odyssey'
-SITENAME = 'Odyssey'
-SITEURL = 'https://someoneexisting.github.io/'
+SITENAME= 'Odyssey'
+SITEURL = ''
 PATH = 'content'
 
 TIMEZONE = 'Asia/Singapore'
@@ -19,21 +19,33 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (
+        ('Archival for Talks this semester', '#'),
+        ('Ongoing Projects', '#'),
+        ('SPMS Official Page for the Odyssey Programme', 'https://spms.ntu.edu.sg/Programmes/Undergrads/Odyssey/Pages/Home.aspx'),
+        ('OI', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (
+        ('Telegram', '#'),
+        ('Whatsapp Announcement Group', '#'),
+        ('Instagram Page', '#'),
+        ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
 
 
-THEME = 'bricks'
+THEME = 'themes/bricks/'
 
+STATIC_PATHS = [
+    'images',
+    'extra',  # this
+]
+
+EXTRA_PATH_METADATA = {
+    'extra/favicon.ico': {'path': 'favicon.ico'},  # and this
+}
 
