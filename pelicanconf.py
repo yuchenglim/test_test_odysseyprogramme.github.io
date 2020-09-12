@@ -21,11 +21,11 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = (
         ('SPMS Official Page for the Odyssey Programme', 'https://spms.ntu.edu.sg/Programmes/Undergrads/Odyssey/Pages/Home.aspx'),
-        ('Telegram', '#'),
-        ('Whatsapp Announcement Group', '#'),
-        ('Instagram Page', '#'),
+        ('Telegram Announcements', 'https://t.me/odysseyprogramme'),
+        ('Instagram Page', 'https://instagram.com/odysseyprogramme'),
         ('Email us', '#'),
 )
+        # ('Whatsapp Announcement Group', '#'),
 """
 ('Archival for Talks this semester', '#'),
 ('Ongoing Projects', '#'),
