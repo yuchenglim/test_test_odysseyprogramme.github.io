@@ -36,9 +36,9 @@ LINKS = (
 # Social widget
 SOCIAL = (
         ('Telegram', '#'),
-        ('Whatsapp Announcement Group', '#'),
         ('Instagram Page', '#'),
         ('Another social link', '#'),)
+        #('Whatsapp Announcement Group', '#'),
 
 DEFAULT_PAGINATION = False
 
@@ -57,3 +57,4 @@ EXTRA_PATH_METADATA = {
     'extra/favicon.ico': {'path': 'favicon.ico'},  # and this
 }
 
+LOAD_CONTENT_CACHE = False
