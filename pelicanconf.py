@@ -45,7 +45,6 @@ DEFAULT_PAGINATION = False
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 
-
 THEME = 'themes/bricks/'
 
 STATIC_PATHS = [
@@ -53,8 +52,12 @@ STATIC_PATHS = [
     'extra',  # this
 ]
 
+CUSTOM_CSS = 'extra/custom.css'
+
 EXTRA_PATH_METADATA = {
-    'extra/favicon.ico': {'path': 'favicon.ico'},  # and this
+    'extra/favicon.ico': {'path': 'extra/favicon.ico'},  # and this
+    'extra/custom.css': {'path': 'extra/custom.css'},  # and this
 }
 
 LOAD_CONTENT_CACHE = False
+
