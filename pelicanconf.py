@@ -19,12 +19,18 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
+EMAIL = 'SPMSOdysseyComm@e.ntu.edu.sg'
+EMAIL_LINK = ''.join(('mailto:', EMAIL))
+OBFUSCATED_EMAIL = ''.join(['&#{0:s};'.format(str(ord(char))) for char in EMAIL_LINK])
+
 LINKS = (
         ('SPMS Official Page for the Odyssey Programme', 'https://spms.ntu.edu.sg/Programmes/Undergrads/Odyssey/Pages/Home.aspx'),
         ('Telegram Announcements', 'https://t.me/odysseyprogramme'),
         ('Instagram Page', 'https://instagram.com/odysseyprogramme'),
-        ('Email us', '#'),
+    ('Email us', OBFUSCATED_EMAIL),
 )
+
+
         # ('Whatsapp Announcement Group', '#'),
 """
 ('Archival for Talks this semester', '#'),
@@ -61,3 +67,4 @@ EXTRA_PATH_METADATA = {
 
 LOAD_CONTENT_CACHE = False
 
+SUMMARY_MAX_LENGTH = 0

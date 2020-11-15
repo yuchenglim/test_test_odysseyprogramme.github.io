@@ -1,5 +1,5 @@
 ---
-Title: On Galois Theory
+Title: Construction using straightedge and compass
 date: Wednesday Oct 21, 2020 12:46:09 +08
 author: yfyourfriend
 header-includes: |
