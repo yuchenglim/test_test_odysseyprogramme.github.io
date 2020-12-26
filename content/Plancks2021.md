@@ -3,14 +3,14 @@ title: Hello PLANCKS 2021
 date: Sunday Nov 15, 2020 22:29:48 +08
 author: Odyssey
 slug: plancks2021
+tags: 'physics' 
+category: 'sign-up'
 header-includes: |
 	\usepackage{enumitem}
 	\setlistdepth{20}
 	\renewlist{itemize}{itemize}{20}
 	\setlist[itemize]{label=$\circ$}
 ---
-
-
 
 Dear All,
 
