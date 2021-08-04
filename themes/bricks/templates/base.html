@@ -43,7 +43,9 @@
             {% for p in pages %}
 	    <li {% if p == page %} class="active" {% endif %}><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
             {% endfor %}
+	    <!--
 	    <li {% if output_file == 'plancks2021.html' %} class="active dropdown"{% endif %}> <a href="{{ SITEURL }}/plancks2021.html">PLANCKS 2021</a></li>
+	    -->
         </ul>
     </div>
     {% block pageheader %}
