@@ -16,7 +16,6 @@ The posters of the Odyssey Research Symposium are detailed as below. Click on th
 
 
 Mathematics
-
 <style type="text/css">
 .tg  {font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;  border-collapse: collapse;  width: 100%};
 .tg td{border: 1px solid #000000; padding: 8px;}
@@ -56,7 +55,7 @@ Mathematics
     <td class="tg-0pky">3</td>
     <td class="tg-0pky">Aravinth Krishnan</td>
     <td class="tg-0pky">Prof. Juan Pablo</td>
-    <td class="tg-0pky"><a href="{static}/extra/Odysssey Symposium 2021 E-POSTERS/MATH/MATH_ARAVINTH KRISHNAN_A PRIMER ON GEOMETRIC MECHANICS AND SYMMETRY.pdf">Numerical Methods for ODE</td>
+    <td class="tg-0pky"><a href="{static}/extra/Odysssey Symposium 2021 E-POSTERS/MATH/MATH_ARAVINTH KRISHNAN_A PRIMER ON GEOMETRIC MECHANICS AND SYMMETRY.pdf">A Primer on Geometric Mechanics and Symmetry</td>
   </tr>
   <tr>
     <td class="tg-0pky">4</td>
@@ -71,13 +70,13 @@ Mathematics
     <td class="tg-0pky">Loo Dong Lin</td>
     <td class="tg-0pky">Dr Tang Wee Kee</td>
     <td class="tg-0pky"><a href="{static}/extra/Odysssey Symposium 2021 E-POSTERS/MATH/MATH_LOO DONG LIN_METRIC SPACES AND ISOMETRIES.pdf">
-    Functional Analysis (Brief Introduction)</a></td>
+    Metric spaces and isometries</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">6</td>
     <td class="tg-0pky">Neo Chee Heng</td>
     <td class="tg-0pky">Prof Ng Keng Meng</td>
-    <td class="tg-0pky"><a href="{static}/extra/Odysssey Symposium 2021 E-POSTERS/MATH/MATH_NEO CHEE HENG_FORCING WITH PARTIAL FUNCTIONS AND ITS SUBSEQUENT ITERATIONS.pdf">Forcing and its applications</a></td>
+    <td class="tg-0pky"><a href="{static}/extra/Odysssey Symposium 2021 E-POSTERS/MATH/MATH_NEO CHEE HENG_FORCING WITH PARTIAL FUNCTIONS AND ITS SUBSEQUENT ITERATIONS.pdf">Forcing with Partial Functions and its Subsequent Iterations</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">7</td>
@@ -85,14 +84,9 @@ Mathematics
     <td class="tg-0pky">Assoc Prof Frédérique Elise Oggier</td>
     <td class="tg-0pky"><a href="{static}/extra/Odysssey Symposium 2021 E-POSTERS/MATH/MATH_TEH YU XUAN_LATTICES AND RINGS.pdf">Lattices and Rings</a></td>
   </tr>
-
 </tbody>
 </table>
-
-
-
 Chemistry
-
 <table class="tg">
 <thead>
   <tr>
@@ -149,11 +143,10 @@ Chemistry
     <td class="tg-0pky">8</td>
     <td class="tg-0pky">Wee Ze Yu</td>
     <td class="tg-0pky">Prof Tan Howe Siang</td>
-    <td class="tg-0pky"><a href="{static}/extra/Odysssey Symposium 2021 E-POSTERS/CHEM/CHEM_LOK XIN YI_MANIPULATING LIQUID MARBLE TO ACCUMULATE MOLECULES AGAINST A CONCENTRATION GRADIENT AT THE LIQUID-LIQUID INTERFACE.pdf">Performing 2D Electronic Spectroscopy on TIPS-Pn in Toluene to Demonstrate CLS Beating Pattern</a></td>
+    <td class="tg-0pky"><a href="{static}/extra/Odysssey Symposium 2021 E-POSTERS/CHEM/CHEM_WEE ZE YU_PERFORMING 2D ELECTRONIC SPECTROSCOPY ON TIPS-PN IN TOLUENE TO DEMONSTRATE CLS BEATING PATTERN.pdf">Performing 2D Electronic Spectroscopy on TIPS-Pn in Toluene to Demonstrate CLS Beating Pattern</a></td>
   </tr>
 </tbody>
 </table>
-
 Physics
 <table class="tg">
 <thead>
@@ -176,8 +169,7 @@ Physics
     <td class="tg-0pky">2</td>
     <td class="tg-0pky">Teo Yong Sen</td>
     <td class="tg-0pky">Prof Cheong Siew Ann</td>
-    <td class="tg-0pky"><a href="{static}/extra/Odysssey Symposium 2021 E-POSTERS/PHY/
-PHY_TEO YONG SEN_SMART EMAIL ASSISTANT.pdf">Smart Email Assistant</a></td>
+    <td class="tg-0pky"><a href="{static}/extra/Odysssey Symposium 2021 E-POSTERS/PHY/PHY_TEO YONG SEN_SMART EMAIL ASSISTANT.pdf">Smart Email Assistant</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">3</td>
@@ -226,7 +218,6 @@ PHY_TEO YONG SEN_SMART EMAIL ASSISTANT.pdf">Smart Email Assistant</a></td>
     <td class="tg-0pky">10</td>
     <td class="tg-0pky">Bryan Cheng Wei Hao</td>
     <td class="tg-0pky">Prof Cesare Soci</td>
-
     <td class="tg-0pky"><a href="{static}/extra/Odysssey Symposium 2021 E-POSTERS/PHY/PHY_BRYAN CHENG WEI HAO_PEROVSKITE METASURFACE LIGHT EMITTING TRANSISTOR.pdf">Perovskite Metasurface Light Emitting Transistor</a></td>
   </tr>
   <tr>
@@ -237,48 +228,42 @@ PHY_TEO YONG SEN_SMART EMAIL ASSISTANT.pdf">Smart Email Assistant</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">12</td>
-    <td class="tg-0pky">Li Yifei</td>
-    <td class="tg-0pky">Dr. Leek Meng Lee</td>
-    <td class="tg-0pky"><a href="{static}/extra/Odysssey Symposium 2021 E-POSTERS/PHY/PHY_TAN FEI_INVESTIGATING PROPERTIES OF THE INFORMATION RELATIVE VARIANCE.pdf">Review Black Hole Solutions in General Relativity</a></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">13</td>
     <td class="tg-0pky">Yeo Poh Meng</td>
     <td class="tg-0pky">Prof Chong Yidong</td>
     <td class="tg-0pky"><a href="{static}/extra/Odysssey Symposium 2021 E-POSTERS/PHY/PHY_YEO POH MENG_MACHINE OPTIMIZATION OF RADIATIVE GRATING (SMITH-PURCELL RADIATION).pdf">Machine optimization of Smith-Purcell Radiation</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">14</td>
+    <td class="tg-0pky">13</td>
     <td class="tg-0pky">Gupta Chaitanya</td>
     <td class="tg-0pky">Dr. Gu Mile</td>
     <td class="tg-0pky"><a href="{static}/extra/Odysssey Symposium 2021 E-POSTERS/PHY/PHY_GUPTA CHAITANYA_THERMODYNAMICS OF MISALIGNED EXPECTATIONS.pdf">Thermodynamics of Misaligned Expectations</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">15</td>
+    <td class="tg-0pky">14</td>
     <td class="tg-0pky">Teo Hau Tian</td>
     <td class="tg-0pky">Prof Zhang Baile</td>
-    <td class="tg-0pky"><a href="{static}/extra/Odysssey Symposium 2021 E-POSTERS/PHY/PHY_TEO HAU TIAN_TOPOLOGICAL PHASE TRANSITION IN A 1D PHONONIC CRYSTAL.pdf">1D Topological Anderson Insulator Chain</a></td>
+    <td class="tg-0pky"><a href="{static}/extra/Odysssey Symposium 2021 E-POSTERS/PHY/PHY_TEO HAU TIAN_TOPOLOGICAL PHASE TRANSITION IN A 1D PHONONIC CRYSTAL.pdf">Topological Phase Transition in a 1D Phononic Crystal</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">16</td>
+    <td class="tg-0pky">15</td>
     <td class="tg-0pky">Tiang Bi Hong</td>
     <td class="tg-0pky">Prof Lu Bing Sui</td>
     <td class="tg-0pky"><a href="{static}/extra/Odysssey Symposium 2021 E-POSTERS/PHY/PHY_TIANG BI HONG_ REPULSIVE CASIMIR EFFECT IN CHERN INSULATOR.pdf">Casimir Effect in Chern Insulator</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">17</td>
+    <td class="tg-0pky">16</td>
     <td class="tg-0pky">Lim Yu Jie</td>
     <td class="tg-0pky">Prof Rainer Helmut Dumke</td>
     <td class="tg-0pky"><a href="{static}/extra/Odysssey Symposium 2021 E-POSTERS/PHY/PHY_LIM YU JIE_BELL_S THEOREM AND QUANTUM VARIATIONAL METHODS.pdf">Violation of Bell's Inequalities</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">18</td>
+    <td class="tg-0pky">17</td>
     <td class="tg-0pky">Choy Boy</td>
     <td class="tg-0pky">Prof.Rainer Dumke</td>
     <td class="tg-0pky"><a href="{static}/extra/Odysssey Symposium 2021 E-POSTERS/PHY/PHY_CHOY BOY_SIMULATING THE ENERGY LANDSCAPE OF DIHYDROGEN VIA A SUPERCONDUCTING QUANTUM COMPUTER.pdf">Towards simulating the potential energy surface of dihydrogen in a superconducting quantum computer</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">19</td>
+    <td class="tg-0pky">18</td>
     <td class="tg-0pky">Soe Gon Yee Thant</td>
     <td class="tg-0pky">Prof.Rainer Dumke</td>
     <td class="tg-0pky"><a href="{static}/extra/Odysssey Symposium 2021 E-POSTERS/PHY/PHY_SOE GON YEE THANT_STREAMLINING AND AUTOMATING THE DESIGN OF SUPERCONDUCTING TRANSMON QUBITS.pdf">Streamlining and automating the design of superconducting transmon qubits</a></td>
