@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
 jobs:
   deploy:
-    uses: "https://github.com/getpelican/pelican/tree/main/.github/workflows"
+    uses: "getpelican/pelican/tree/main/.github/workflows"
     permissions:
       contents: "read"
       pages: "write"
