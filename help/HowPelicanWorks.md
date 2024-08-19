@@ -13,9 +13,8 @@ pelicanconf.py
   
     
 settings: https://docs.getpelican.com/en/latest/settings.html
-  
-  
-  
+
+## Random thoughts
 If you make changes, how to update webpage????
 
 
