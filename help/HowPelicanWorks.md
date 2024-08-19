@@ -1,4 +1,6 @@
 ## Updating pages
+Not very useful, see the comments:  
+https://gist.github.com/JosefJezek/6053301
 
 Pelican and github pages: create github workflow  
 https://github.com/getpelican/pelican/blob/main/docs/tips.rst
