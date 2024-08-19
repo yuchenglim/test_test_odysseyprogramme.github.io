@@ -1,7 +1,9 @@
-[odysseyprogramme.github.io](https://odysseyprogramme.github.io/)
+website: [odysseyprogramme.github.io](https://odysseyprogramme.github.io/)
 
-Check history  
+Beware: check deployment history!  
 https://github.com/odysseyprogramme/odysseyprogramme.github.io/deployments/github-pages
+
+!Beware: Two branches!
 
 ---
 date: Monday Aug 19, 2024
