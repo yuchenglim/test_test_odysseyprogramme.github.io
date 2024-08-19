@@ -7,7 +7,9 @@ Markdown (everything's written in Markdown + Python!...!!)
 https://www.markdownguide.org/basic-syntax/
 
 Github pages  
-https://docs.github.com/en/pages
+https://docs.github.com/en/pages  
+Quickstart  
+https://docs.github.com/en/pages/quickstart
 
 ## Files
 
