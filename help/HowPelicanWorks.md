@@ -1,3 +1,9 @@
+## Updating pages
+
+Pelican and github pages: create github workflow  
+https://github.com/getpelican/pelican/blob/main/docs/tips.rst
+
+
 ## Background reading
 
 Jekyll vs Pelican  
